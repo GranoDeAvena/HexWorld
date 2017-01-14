@@ -1,0 +1,16 @@
+sceneSetups:
+- path: Assets/DefaultScene.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/World.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/BattleGround.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Castle.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/LoadScene.unity
+  isLoaded: 0
+  isActive: 0
